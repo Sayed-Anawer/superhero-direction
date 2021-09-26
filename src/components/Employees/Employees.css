@@ -1,0 +1,10 @@
+.container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.employee-section {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 10px;
+}

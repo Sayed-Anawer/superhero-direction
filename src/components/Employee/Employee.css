@@ -1,0 +1,46 @@
+.employee {
+  width: 350px;
+  text-align: center;
+  /* border: 1px solid #2b2b2b;
+  border-radius: 10px; */
+}
+.employee img {
+  height: 430px;
+  width: 350px;
+  border: 2px solid #2b2b2b;
+}
+.name {
+  font-size: 1.5rem;
+}
+.employee,
+.role,
+.experiance,
+.salary,
+button {
+  margin: 10px 5px;
+  color: white;
+}
+.employee-description {
+  background-color: #2b2b2b;
+  line-height: 40px;
+
+  margin-bottom: 50px;
+}
+
+.add-btn {
+  margin-top: 20px;
+  background-color: #f68b33;
+  cursor: pointer;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  transition: 0.2s ease-in-out;
+  font-size: 18px;
+}
+.add-btn:hover {
+  background-color: orange;
+}
+
+.cart-icon {
+  margin-right: 5px;
+}

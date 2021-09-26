@@ -1,0 +1,100 @@
+[
+    {
+        "emp_id": "d01",
+        "name": "Willilam Smith",
+        "job_role": "Sr software Engineer",
+        "salary": 8000,
+        "experiance": "6 years",
+        "img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+    },
+    {
+        "emp_id": "d02",
+        "name": "James Fredd",
+        "job_role": "Front-end Developer",
+        "salary": 2500,
+        "experiance": "2 years",
+        "img": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80"
+    },
+    {
+        "emp_id": "d03",
+        "name": "Linda Greedman",
+        "job_role": "Cyber Security",
+        "salary": 7500,
+        "experiance": "5 years",
+        "img": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+    },
+    {
+        "emp_id": "d04",
+        "name": "Sawyer Jhon",
+        "job_role": "Sr Back-end Developer",
+        "salary": 5000,
+        "experiance": "4 years",
+        "img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80"
+    },
+    
+    
+    {
+        "emp_id": "d05",
+        "name": "Oshane Mathew",
+        "job_role": "Data Analyst",
+        "salary": 5500,
+        "experiance": "3 years",
+        "img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+    },
+    {
+        "emp_id": "d06",
+        "name": "Aron Jose",
+        "job_role": "Sr Technical Lead",
+        "salary": 10000,
+        "experiance": "2 years",
+        "img": "https://images.unsplash.com/photo-1549045337-967927d923c0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+    },
+    {
+        "emp_id": "d07",
+        "name": "Andrew Clare",
+        "job_role": "Sr FullStack Developer",
+        "salary": 7000,
+        "experiance": "8 years",
+        "img": "https://images.unsplash.com/photo-1558222218-b7b54eede3f3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+    },
+    {
+        "emp_id": "d08",
+        "name": "Chin Yeu",
+        "job_role": "Web Designer",
+        "salary": 2000,
+        "experiance": "2 years",
+        "img": "https://images.unsplash.com/photo-1614786269829-d24616faf56d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80"
+    },
+    {
+        "emp_id": "d09",
+        "name": "Kevin Mac",
+        "job_role": "Back-end Developer",
+        "salary": 4000,
+        "experiance": "2 years",
+        "img": "https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80"
+    },
+    {
+        "emp_id": "d10",
+        "name": "John Thomas",
+        "job_role": "Senior HR",
+        "salary": 3000,
+        "experiance": "4 years",
+        "img": "https://images.unsplash.com/photo-1530649298728-6dbb4c3f5bc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80"
+    },
+    {
+        "emp_id": "d11",
+        "name": "Paul Carter",
+        "job_role": "Front-end Developer",
+        "salary": 3000,
+        "experiance": "2 years",
+        "img": "https://images.unsplash.com/photo-1559718062-361155fad299?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80"
+    },
+    {
+        "emp_id": "d12",
+        "name": "Jenkins Martin",
+        "job_role": "Web Designer",
+        "salary": 3000,
+        "experiance": "3 years",
+        "img": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+    }
+]

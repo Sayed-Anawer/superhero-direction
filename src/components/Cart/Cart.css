@@ -1,0 +1,15 @@
+.cart-employee {
+  text-align: center;
+  background-color: rgb(235, 118, 2);
+  padding: 8px 15px;
+  margin: 10px 80px 10px 10px;
+  border-radius: 5px;
+  color: rgba(255, 255, 255, 0.993);
+  font-size: 20px;
+}
+
+hr{
+  margin-right: 150px;
+  margin-top: 20px;
+  margin: 10px 150px 10px 0px
+}
